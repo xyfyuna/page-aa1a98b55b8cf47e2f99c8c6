@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "970b87942e6e052379ea753a",
+  "owner": "xyfyuna",
+  "repo": "page-aa1a98b55b8cf47e2f99c8c6",
+  "title": "喵梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "aa1a98b55b8cf47e2f99c8c6",
+      "a": "喵梯",
+      "b": "机场官网线路发布页",
+      "entity": "喵梯",
+      "brand": "喵梯",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c7a57be65d2fdc0865fbfa44b72359b25773e76abe4c52426f5b0a2d145bd95f",
+      "content": {
+        "primary_entity": "喵梯",
+        "keyword1": "喵梯",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，Windows 与 Android 常用 Clash Verge 或 v2rayN，iOS 与 macOS 可用 Shadowrocket 或 ClashX，路由器设备建议使用 OpenWrt 搭配 PassWall。",
+          "AI_CLIENTS_TITLE": "客户端按设备挑选",
+          "AI_CLOSING_TEXT": "选好套餐后按设备文档导入订阅，即可开始使用喵梯的加速线路。",
+          "AI_CLOSING_TITLE": "按需选择，轻松配置",
+          "AI_DESCRIPTION": "，喵梯提供基础版、旗舰版与团队版三档订阅，分别适配轻度浏览、流媒体与多设备团队场景。基础版每月 15 元含 100GB 流量与 3 台设备；旗舰版每月 35 元含 300GB 流量、5 台设备与 IPLC 专线；团队版每月 85 元含 1000GB 流量并支持 20 台设备。按年付可享约两个月减免，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_1": "基础版适合单人或少量设备日常浏览，旗舰版流量更多并带 IPLC 专线，适合流媒体与游戏，团队版支持 20 台设备，适合小团队共享。",
+          "AI_FAQ_ANSWER_2": "可在手机、电脑和路由器上使用，同时在线设备数由套餐决定：基础版 3 台、旗舰版 5 台、团队版 20 台。",
+          "AI_FAQ_ANSWER_3": "按年付相比月付更划算，例如基础版年付 150 元、旗舰版年付 350 元、团队版年付 850 元，相当于节省约两个月费用。",
+          "AI_FAQ_ANSWER_4": "可以。每个客户端有不同的订阅导入方式，按对应文档操作即可，同一订阅可在套餐允许的设备数内使用。",
+          "AI_FAQ_ANSWER_5": "基础版提供普通线路节点池，旗舰版与团队版提供更优的专线或高带宽节点，可根据使用场景选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "喵梯可以在哪些设备上使用？",
+          "AI_FAQ_QUESTION_3": "按年付会比按月付更划算吗？",
+          "AI_FAQ_QUESTION_4": "订阅可以同时导入多个客户端吗？",
+          "AI_FAQ_QUESTION_5": "不同套餐的线路质量有区别吗？",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FEATURES_INTRO": "从流量需求、设备数量和订阅周期三个角度，可以快速判断哪一档套餐更适合。",
+          "AI_FEATURES_TITLE": "选择适合的订阅方式",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按日常用量选择即可。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版最多 20 台，多人使用选团队版更合适。",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供按年付选项，年付价格约为十个月月付费用，长期使用可优先考虑。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TITLE_2": "按设备数适配",
+          "AI_FEATURE_TITLE_3": "按年付更省心",
+          "AI_GUIDE_INTRO": "先确定使用设备与流量需求，再对照套餐选择，最后按客户端文档完成订阅导入。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "喵梯是面向中文用户的海外加速订阅服务，提供基础版、旗舰版和团队版三档套餐，覆盖日常浏览、流媒体与多设备团队使用场景，支持按年付费。",
+          "AI_HERO_SUBTITLE": "喵梯订阅，按需选择套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线使用",
+          "AI_HIGHLIGHT_3": "提供按年付优惠方案",
+          "AI_PLANS_INTRO": "对比三档套餐的月付与年付价格、流量和设备数量，按实际需求选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认日常使用设备数量和每月大致流量，明确自己的使用场景。",
+          "AI_STEP_TEXT_2": "对照基础版、旗舰版和团队版的流量与设备限制，选择匹配的套餐。",
+          "AI_STEP_TEXT_3": "根据所用设备选择客户端，按对应文档导入订阅并完成配置。",
+          "AI_STEP_TITLE_1": "确定使用需求",
+          "AI_STEP_TITLE_2": "查看套餐适配",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "喵梯订阅套餐一览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dizaobao.cn",
+    "host": "dizaobao.cn"
+  },
+  "file_hashes": {
+    "index.html": "5928af90fa40ad7593dcbbc882b02ecd7f79ef815bb59ad90c1009e2f05224b4",
+    "sitemap.xml": "ac421cd3c2dd2f28395449c218b8528280c27c459043dc1de93b0b087f718a88",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1c22c6abe16c206b12f9aa8eb2537d8800f4c90e5d82e4759dfdbb00d81fa14e",
+    "robots.txt": "d9f8d93b3017f0a3b87f33cb73d586cf9080112c20129d0ddd8e3bd4b492e5d4",
+    "85257b16ec50855e9c7d13531b291d8c.txt": "7df101d94b3770851fbf0c9d3b06a76a1d32506abad4a706bef02c44ffaf0d3c"
+  },
+  "revision": "f216fd3e6e7fe97e6ef0fc6b3f2da11e9d0643dc94b245e06cad731d46f93f8f"
+}
